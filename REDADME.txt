@@ -1,0 +1,4 @@
+1.springboot+mybatis-spring+mybatis
+2.多数据源
+3.demo包含注解和xml两种方式的mapper
+4.基本的功能点，批量插入和修改，分页插件查询，其它基本功能
